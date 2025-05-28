@@ -1,1 +1,90 @@
-{}
+{
+  "256704722136@s.whatsapp.net": {
+    "id": "256704722136@s.whatsapp.net",
+    "coins": 100,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-24T13:37:09.729Z",
+    "level": 1,
+    "experience": 50
+  },
+  "40736676892@s.whatsapp.net": {
+    "id": "40736676892@s.whatsapp.net",
+    "coins": 1100131,
+    "bankBalance": 9889000,
+    "lastClaim": "2025-05-27T06:20:34.724Z",
+    "level": 999,
+    "experience": 1060
+  },
+  "27643366209@s.whatsapp.net": {
+    "id": "27643366209@s.whatsapp.net",
+    "coins": 0,
+    "level": 1,
+    "experience": 50,
+    "lastClaim": "2025-05-24T13:38:39.605Z",
+    "bankBalance": 10091
+  },
+  "233504290511@s.whatsapp.net": {
+    "id": "233504290511@s.whatsapp.net",
+    "coins": 100,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-24T17:52:05.454Z",
+    "level": 1,
+    "experience": 50
+  },
+  "917973456275@s.whatsapp.net": {
+    "id": "917973456275@s.whatsapp.net",
+    "coins": 100,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-26T07:24:04.677Z",
+    "level": 1,
+    "experience": 50
+  },
+  "919932606735@s.whatsapp.net": {
+    "id": "919932606735@s.whatsapp.net",
+    "coins": 116,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-27T06:20:34.147Z",
+    "level": 1,
+    "experience": 74
+  },
+  "27646204931@s.whatsapp.net": {
+    "id": "27646204931@s.whatsapp.net",
+    "coins": 36,
+    "bankBalance": 0,
+    "lastClaim": null,
+    "level": 1,
+    "experience": 12
+  },
+  "@26079662178378": {
+    "id": "@26079662178378",
+    "coins": 0,
+    "bankBalance": 1000,
+    "lastClaim": null,
+    "level": 1,
+    "experience": 0
+  },
+  "2349070569959@s.whatsapp.net": {
+    "id": "2349070569959@s.whatsapp.net",
+    "coins": 100,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-27T11:00:54.733Z",
+    "level": 1,
+    "experience": 50
+  },
+  "918761039745@s.whatsapp.net": {
+    "id": "918761039745@s.whatsapp.net",
+    "coins": 100,
+    "bankBalance": 0,
+    "lastClaim": "2025-05-27T17:09:23.483Z",
+    "level": 1,
+    "experience": 50
+  },
+  "@918761039745": {
+    "id": "@918761039745",
+    "coins": 0,
+    "bankBalance": 10000,
+    "lastClaim": null,
+    "level": 1,
+    "experience": 0
+  }
+}

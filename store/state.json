@@ -1,0 +1,22 @@
+{
+  "connection": "open",
+  "lastDisconnect": {
+    "error": {
+      "data": null,
+      "isBoom": true,
+      "isServer": false,
+      "output": {
+        "statusCode": 408,
+        "payload": {
+          "statusCode": 408,
+          "error": "Request Time-out",
+          "message": "Connection was lost"
+        },
+        "headers": {}
+      }
+    },
+    "date": "2025-05-27T12:19:33.019Z"
+  },
+  "isNewLogin": true,
+  "shouldReconnect": true
+}
